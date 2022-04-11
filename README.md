@@ -1,5 +1,5 @@
-# Covid-19-indicators-
-Investigating Covid-19 indicators  with multivariate analytical techniques
+# Investigating Covid-19 indicators  with multivariate analytical techniques-
+
 
 The report is to interpreter the results of the analysis using Covid19 related indicators to find the relationship between various indicators as well as the difference and similarity between countries. 
 
